@@ -14,3 +14,5 @@ npm i firebase-error-translate-tr
 ```bash
 errorTranslate(ERRORMSG);
 ```
+
+![Ornek](./kullanim.png)
