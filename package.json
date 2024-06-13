@@ -1,0 +1,30 @@
+{
+  "name": "firebase-error-translate-tr",
+  "version": "0.0.5",
+  "description": "Module that catches errors from firebase and translates them into Turkish",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkanmturgut/firebase-error-translate-tr.git"
+  },
+  "keywords": [
+    "firebase",
+    "translate",
+    "turkish",
+    "english",
+    "error",
+    "message"
+  ],
+  "author": "Furkan Turgut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furkanmturgut/firebase-error-translate-tr/issues"
+  },
+  "homepage": "https://github.com/furkanmturgut/firebase-error-translate-tr#readme",
+  "dependencies": {
+    "firebase-error-translate-tr": "^0.0.1"
+  }
+}
